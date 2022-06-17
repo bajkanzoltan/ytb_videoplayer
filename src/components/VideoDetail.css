@@ -1,0 +1,16 @@
+.column{
+    display:flex;
+    flex-direction:column;
+    height: 60vh;
+    width: 80vh;
+    font-size: 1.5rem;
+    font-weight:550;
+}
+
+.video_player{
+    height:50vh;
+}
+
+.column div{
+    padding-top:1rem;
+}
